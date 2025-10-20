@@ -1,7 +1,6 @@
 ![Total downloads](https://img.shields.io/github/downloads/LigindaLeg/Scp096Mask/total)
 
-Ru 
-# Плагин на Маску для SCP-096, будет довольно полезен для RP серверов / больше не поддерживается
+
 
 En
-# Mask plugin for SCP-096, will be quite useful for RP servers / no longer supported
+# this is a port of the og plugin, I will be trying to add new things. this plugin makes it so when the command is said ntf captains will spawn with a 096 bag.
