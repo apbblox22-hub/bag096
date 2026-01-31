@@ -88,7 +88,7 @@ namespace Mask096
 
             if (Serials.Contains(ev.Item.Serial))
             {
-                ev.Player.ShowHint("you have picked up");
+                ev.Player.ShowHint("bag");
 
             }
         }
@@ -192,7 +192,7 @@ namespace Mask096
             player.ShowHint(MainPlugin.Instance.Translation.PlayerSpawnHint);
 
 
-            response = $"this is a message";
+            response = $"you have the bag now";
             return false;
 
         }
