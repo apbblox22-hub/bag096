@@ -1,4 +1,4 @@
-![Total downloads](https://img.shields.io/github/downloads/apbblox22-hub/bag096/total)
+![Total downloads](https://img.shields.io/github/downloads/apbblox22-hub/bag-096/total)
 
 
 
